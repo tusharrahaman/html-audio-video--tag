@@ -1,0 +1,66 @@
+.pad-box{
+	width: 20%;
+	height: 150px;
+	background-color: red;
+	border: 3px solid yellow;
+	padding: 15px;
+	margin: 15px;
+	display: inline-block;
+}
+h1{
+	text-align: center;
+	
+}
+
+.box-in{
+	
+	width: 50px;
+	height: auto;
+}
+
+
+
+
+p{
+	font-size: 18px;
+	border: 3px solid burlywood;
+	display: inline-block;
+	
+}
+.box{
+	width: 300px;
+	height: 100px;
+	background-color: blueviolet;
+}
+.box-px{
+	border: 3px dashed lightcoral;
+
+}
+.box-in{
+	width: 60%;
+	height: 100px;
+	background-color: black;
+}
+.box-per{
+	background-color: blue;
+	border: 3px double yellowgreen;
+	display: inline-block;
+	font-size: 30px;
+	font-style: italic;
+
+
+}
+a{
+	background-color: whitesmoke;
+	border: 3px solid yellowgreen;
+	text-decoration: none;
+	font-size: 30px;
+}	
+.video-box{
+	height: 300px;
+	width: 600px;
+	margin: 15px;
+	border: 3px solid yellow;
+	
+	float: right;
+}
